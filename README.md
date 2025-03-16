@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Andrés! 👋
 
-<!--
-**ZorroGuadaPavos/ZorroGuadaPavos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Python | FastAPI | Django | React | Open Source Enthusiast  
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Fullstack with a passion for clean, efficient code
+- 🌐 Building scalable web applications and RESTful APIs
+- 🤝 Looking to collaborate on innovative open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **My Projects**
+- 🍽️ [Taste This](https://taste-this.com/) - Get dish recommendations at restaurants based on user reviews
+- 📝 [Flash Notes](https://flash-notes.com/) - A tool to help with studying and memorization using flashcards
+
+📫 **Connect with me**
+[LinkedIn](https://www.linkedin.com/in/andres-ortega-202b22153/) | [GitHub](https://github.com/ZorroGuadaPavos)
